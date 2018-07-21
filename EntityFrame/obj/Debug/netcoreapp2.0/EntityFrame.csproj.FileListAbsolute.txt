@@ -1,0 +1,11 @@
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\bin\Debug\netcoreapp2.0\EntityFrame.deps.json
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\bin\Debug\netcoreapp2.0\EntityFrame.runtimeconfig.json
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\bin\Debug\netcoreapp2.0\EntityFrame.runtimeconfig.dev.json
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\bin\Debug\netcoreapp2.0\EntityFrame.dll
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.csprojAssemblyReference.cache
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.csproj.CoreCompileInputs.cache
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.AssemblyInfoInputs.cache
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.AssemblyInfo.cs
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\bin\Debug\netcoreapp2.0\EntityFrame.pdb
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.dll
+c:\users\hari.dileepkumar\Source\Repos\EntityFrame\EntityFrame\obj\Debug\netcoreapp2.0\EntityFrame.pdb
